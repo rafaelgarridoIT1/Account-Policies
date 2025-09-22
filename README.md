@@ -6,10 +6,6 @@
 In this tutorial, you’ll learn how to configure Account Policies in Active Directory using Group Policy to enhance domain-wide security and user authentication standards. We’ll cover essential settings like Password Policy and Account Lockout Policy to help you enforce best practices across your network.<br />
 
 
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: Configuring Account Policies for Active Directory](https://youtu.be/keqxUTkp53E)
-
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
